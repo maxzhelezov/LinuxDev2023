@@ -1,0 +1,14 @@
+*.o
+*.a
+*.so
+*.so.*
+*.swp
+*.swo
+.#*
+*.tmp
+a.out
+
+*.exe
+*.obj
+*.dll
+*.lib
